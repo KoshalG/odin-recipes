@@ -1,1 +1,1 @@
-# odin-recipes
+# This project contains an index page along with 3 subpages which contain recipes to some dishes.
