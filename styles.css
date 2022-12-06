@@ -1,0 +1,42 @@
+.Index-Heading {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    color: rgb(240, 191, 76)
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+
+img {
+    width: 600px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+}
+
+#paneer {
+    width: 600px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: 600;
+}
+
